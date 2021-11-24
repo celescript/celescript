@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**celestef00/celestef00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi 👋, I'm Celeste Fernandez! <img src="https://media.giphy.com/media/wtdVYmaRWJ1PyPcc8e/giphy.gif" width="35"></h2>
+<img align='right' src="https://media.giphy.com/media/t5RMni2zWxBblot9mP/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+![https://www.linkedin.com/in/celestefernandez00/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+<img src='https://media.giphy.com/media/Kd5t8Q0aUDui9yaf9n/giphy.gif' width='60'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:cherry_blossom: A little more about me...  <img src="https://media.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="60">
+
+```javascript
+const celeste = {
+  pronouns: 'she' | 'her',
+  code: ['Javascript', 'HTML', 'CSS'],
+  tools: ['React', 'Bootstrap', 'Material UI'],
+  passions: ['web development', 'cats', 'anime', 'listening to new music']
+}
+```
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+⭐️ From [@Celeste](https://github.com/celestef00)
