@@ -11,7 +11,7 @@
 const celeste = {
   pronouns: 'she' | 'her',
   code: ['Javascript', 'HTML', 'CSS'],
-  tools: ['React', 'Bootstrap', 'Material UI'],
+  tools: ['React', 'Bootstrap', 'Material UI', 'SASS'],
   passions: ['web development', 'cats', 'anime', 'listening to new music']
 }
 ```
