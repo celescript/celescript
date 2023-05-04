@@ -20,4 +20,4 @@ const celeste = {
 
 ---
 
-⭐️ From [@Celeste](https://github.com/celestef00)
+⭐️ From [@Celeste](https://github.com/celescript)
