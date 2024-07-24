@@ -1,23 +1,35 @@
 
-<h2> Hi 👋, I'm Celeste Fernandez! <img src="https://media.giphy.com/media/wtdVYmaRWJ1PyPcc8e/giphy.gif" width="35"></h2>
-<img align='right' src="https://media.giphy.com/media/t5RMni2zWxBblot9mP/giphy.gif" width="230">
+# Hi there! I'm Celeste Fernandez 👋
+<img align='right' src="https://media.tenor.com/h0slfYVBHzIAAAAj/cat-spinning-cat.gif" width="230" >
 
-[![linkedin link](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celescript/)
-<img src='https://media.giphy.com/media/Kd5t8Q0aUDui9yaf9n/giphy.gif' width='60'>
 
-:cherry_blossom: A little more about me...  <img src="https://media.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="60">
+I'm a Frontend Developer based in Argentina with 2 years of experience, specializing in creating responsive and performant web applications. I've led frontend projects and mentored fellow developers, I like to always be learning and improving my skills. 
+
+🌱 I’m currently learning about **Node** and **React Table**.
+
+
+
+ ### A little more about me...
+
 
 ```javascript
 const celeste = {
-  pronouns: 'she' | 'her',
-  code: ['Javascript', 'HTML', 'CSS'],
-  tools: ['Typescript', 'NextJS', 'Tailwind', 'SWR', 'React Query', 'Material UI', 'AWS', 'Firebase', 'Docker', 'SASS', 'Bootstrap', 'PostCss'],
-  passions: ['web development', 'cats', 'anime', 'listening to new music']
+  location: 'Argentina',
+  role: 'FrontEnd Developer',
+  experience: '2 years',
+  skills: [
+    'JavaScript', 'TypeScript', 'React.js', 'Next.js', 'Webpack', 'Tailwind', 'GSAP', 
+    'SWR', 'React Query', 'Material UI', 'AWS', 'Firebase', 'Docker', 
+    'SASS', 'Bootstrap', 'PostCSS', 'Axios', 'Recharts', 'React Hook Form', 
+    'React TanStack Table', 'React Router Dom', 'JWT'
+  ],
+  passions: ['Mentoring', 'Art', 'Woodcraft', 'Cats', 'Listening to New Music', ]
 }
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
----
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/celescript)
+<br />
+⭐️ From <a href="https://github.com/celescript" target="_blank"> @Celeste </a>
 
-⭐️ From [@Celeste](https://github.com/celescript)
+
